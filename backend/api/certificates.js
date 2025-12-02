@@ -1,0 +1,1 @@
+// backend/api/certificates.js
